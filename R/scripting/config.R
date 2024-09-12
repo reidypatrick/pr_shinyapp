@@ -1,3 +1,8 @@
+library(shiny)
+library(rsconnect)
+library(tidyverse)
+library(addinsPR)
+
 source("R/functions/source_functions.R")
 source_functions()
 
