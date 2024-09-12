@@ -1,6 +1,6 @@
-[![lint-project](https://github.com/reidypatrick/pr_template/actions/workflows/lint-project.yaml/badge.svg)](https://github.com/reidypatrick/pr_template/actions/workflows/lint-project.yaml)
+[![lint-project](https://github.com/reidypatrick/pr_shinyapp/actions/workflows/lint-project.yaml/badge.svg)](https://github.com/reidypatrick/pr_shinyapp/actions/workflows/lint-project.yaml)
 
-# pr_template
+# pr_shinyapp
 
 ## Description
 Project description goes here.
